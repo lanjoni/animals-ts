@@ -1,0 +1,23 @@
+{
+  "name": "animals-ts",
+  "version": "1.0.0",
+  "description": "This is a library that has in its web APIs records settings to facilitate the use and return of random animal images",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gutoso/animals-ts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gutoso/animals-ts/issues"
+  },
+  "homepage": "https://github.com/gutoso/animals-ts#readme",
+  "dependencies": {
+    "cross-fetch": "^3.1.5"
+  }
+}
